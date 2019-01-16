@@ -65,7 +65,7 @@ It can be a bit challenging to find the correct URL for each image.
 Generally, store your embedded images in your repo if they are original, or reference the hosted location for the image if already available on the web. 
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
-![Hosted image](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjxpK_K6vLfAhUE2qwKHYyFCEsQjRx6BAgBEAU&url=https%3A%2F%2Fwww.apple.com%2Fus_smb_78313%2Fshop%2Fbuy-watch%2Fapple-watch-series-3&psig=AOvVaw2ZY_Mft_rPoFjyqHVtwvGQ&ust=1547746340532434)
+![Hosted image](https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-1fndzcd_41017374.jpeg "Manoj Hot Wheels")
 
 ## Paragraphs
 

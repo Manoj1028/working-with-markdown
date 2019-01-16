@@ -65,7 +65,7 @@ It can be a bit challenging to find the correct URL for each image.
 Generally, store your embedded images in your repo if they are original, or reference the hosted location for the image if already available on the web. 
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
-![Hosted image](https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-1fndzcd_41017374.jpeg "Manoj Hot Wheels")
+![Hosted image](https://www.gannett-cdn.com/-mm-/99d53ac978604021f8f1cf68de593a01ad75f15a/c=549-300-2810-2000/local/-/media/2017/04/08/DetroitFreePress/DetroitFreePress/636272846986490390-2018-Dodge-Demon-35.jpg?width=534&height=401&fit=crop "hi")
 
 ## Paragraphs
 
